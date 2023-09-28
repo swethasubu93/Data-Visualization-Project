@@ -49,4 +49,10 @@ With this dashboard a user can choose the best option from a list of properties 
 
 ![User customized recommendation](https://github.com/swethasubu93/Data-Visualization-Project/assets/109064336/5b42ac2d-00a8-4ca5-bfc1-8c9c608b1049)
 
+## 🔗 Contributors & Credits
+Supreetha Naik https://github.com/supreetn
+
+Sushmita Joshi https://github.com/sushmita3105
+
+Swetha Subramanian https://github.com/swethasubu93
 
