@@ -1,4 +1,3 @@
-
 # A study of AirBnB in Amsterdam
 
 A recommendation system for AirBnb customers in Amsterdam is created in this project. The user will be given information, using visulaizations, about the best Airbnb accommodations based on their preferences to make a well-informed decision when booking.
