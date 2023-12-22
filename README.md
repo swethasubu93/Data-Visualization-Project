@@ -12,7 +12,7 @@ Airbnb is a platform for travelers to book accommodations hosted by local proper
 
 ## Steps Taken  
 
-- *Data Collection*: Airbnb dataset from Kaggle (https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam) 
+- *Data Collection*: Airbnb dataset from Kaggle ([Data](https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam))
 - *Data cleaning & wrangling*: Dropped unnecessary columns, null handling by extrapolation, used pandas for these tasks.
 - *Tableau Design*: Joined the datasets in tableau and created 5 dashboards for insights.
       
